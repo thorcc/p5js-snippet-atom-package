@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "p5js-snippet:createTemplate"
   },
-  "repository": "https://github.com/atom/p5js-snippet",
+  "repository": "https://github.com/thorcc/p5js-snippet-atom-package",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
