@@ -1,5 +1,6 @@
 # p5js-snippet package
 
 A simple package for creating an empty p5-sketch.
+To create a new p5js template right click on a folder in tree-view.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![A screenshot of your package](./p5js-snippet.jpg)

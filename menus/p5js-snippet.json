@@ -1,26 +1,10 @@
 {
   "context-menu": {
-    "atom-text-editor": [
+    ".tree-view .full-menu [is='tree-view-directory']": [
       {
         "label": "Create p5js template",
         "command": "p5js-snippet:createTemplate"
       }
     ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "p5js",
-          "submenu": [
-            {
-              "label": "Create template",
-              "command": "p5js-snippet:createTemplate"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  }
 }
