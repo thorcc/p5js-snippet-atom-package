@@ -1,3 +1,6 @@
+## 0.3.0 - Fs-bugfix
+* Fixed a typo giving fs not found.
+
 ## 0.2.0 - Right click to create
 * Added the ability to create templates in a selected folder by right clicking on a folder in tree-view.
 * Removed the ability to create templates from the packages menu.
