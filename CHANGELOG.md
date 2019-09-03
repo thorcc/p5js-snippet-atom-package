@@ -1,4 +1,4 @@
-## 0.3.0 - Fs-bugfix
+## 0.3.2 - Fs-bugfix
 * Fixed a typo giving fs not found.
 
 ## 0.2.0 - Right click to create

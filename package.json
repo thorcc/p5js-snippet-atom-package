@@ -1,7 +1,7 @@
 {
   "name": "p5js-snippet",
   "main": "./lib/p5js-snippet",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "description": "A simple package for creating an empty p5-sketch.",
   "keywords": [],
   "activationCommands": {
